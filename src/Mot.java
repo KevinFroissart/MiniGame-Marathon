@@ -1,0 +1,3 @@
+class Mot {
+    Lettre[] leMot;
+}
